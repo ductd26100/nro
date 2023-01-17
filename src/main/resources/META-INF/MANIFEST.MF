@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: nro.main.Server
-Class-Path: junit-4.10.jar hamcrest-core-1.1.jar HikariCP-4.0.3.jar slf4
- j-api-2.0.5.jar joda-time-2.9.4.wso2v1.jar mysql-connector-java-5.1.23.
- jar annotations-23.1.0.jar slf4j-simple-2.0.5.jar json-simple-1.1.1.jar
-
